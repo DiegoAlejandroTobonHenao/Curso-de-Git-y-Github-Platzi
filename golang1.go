@@ -14,5 +14,9 @@ func main(){
 	} else{
 		fmt.Println("No puedes ... :( ")
 	}
+	var apellido,ciudad,celular string = "Tobon Henao","Manizales","3136702173"
+	fmt.Println(nombre,apellido,edad,celular, ciudad)
+
+
 }
 
